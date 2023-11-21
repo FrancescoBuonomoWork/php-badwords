@@ -8,7 +8,7 @@
 <body>
 
     <div>
-        <form action="POST">
+        <form action="text.php" method="POST">
             <input type="text" name="replace_word">
             <input type="submit" value="invia">
         </form>
